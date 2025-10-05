@@ -7,3 +7,4 @@ AI opponent: Optional AI mode where the player competes against a basic AI.
 Input validation: Ensures valid moves and prevents overwriting of occupied positions.
 Board display: The current state of the game board is displayed after each move.
 Win detection: Automatically detects and announces a winner or a tie.
+<img width="1314" height="640" alt="tictaktoc game - Google Chrome 10_5_2025 7_12_01 AM" src="https://github.com/user-attachments/assets/340417dc-05c6-4f15-a2db-7869496e73e5" />
